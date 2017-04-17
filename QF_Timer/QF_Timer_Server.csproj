@@ -121,6 +121,7 @@
   <ItemGroup>
     <Content Include="bin\Debug\shijiandao.wav" />
     <Content Include="bin\Debug\zui1.wav" />
+    <Content Include="QF倒计时服务端.exe" />
     <Content Include="Time_machine_128px_1071611_easyicon.net.ico" />
   </ItemGroup>
   <ItemGroup>
