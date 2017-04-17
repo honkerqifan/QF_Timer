@@ -1,0 +1,16 @@
+{
+  "ServerPort": 61000,
+  "TimerList": [ 2 ],
+  "TimerStrArr": [ "计时 {0}" ],
+  "Width": 200,
+  "Height": 30,
+  "Left": 0,
+  "Top": 0,
+  "FontSize": 20,
+  "BackgroundColor": "#006400",
+  "FontColor": "#EEEE00",
+  "LastBackgroundColor": "#ff0000",
+  "LastFontColor": "#EEEE00",
+  "LastFontSize": 80,
+  "Opacity": 0.9
+}
